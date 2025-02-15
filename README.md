@@ -1,5 +1,7 @@
 A project inspired by Carlo's [Pixless Camera](https://www.kickstarter.com/projects/carloandreini/pixless-camera), make sure to check it out and back his project! (Dude’s got the best name 🙂)
 
+Here we can't fully reproduce his results, because he is using a specific camera module, going for a retro feel, but we can try to emulate it in code.
+
 You can customize the following properties:
 
 *   Width of the final image
