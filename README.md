@@ -42,6 +42,7 @@ No palette defined
 Sample video
 
 <video src="samples/sample_video.mp4" width="400" type="video/mp4" controls></video> <video src="samples/sample_video_output.mp4" width="400" type="video/mp4" controls></video>
+<img src="samples/sample_video.gif" width="400"/> <img src="samples/sample_video_output.gif" width="400"/>
 
 ---
 
