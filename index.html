@@ -150,7 +150,7 @@
         if (softFocusEnabled) {
           fullSizeCanvas.width = video.videoWidth;
           fullSizeCanvas.height = video.videoHeight;
-          fullSizeCtx.filter = 'blur(4px)';
+          fullSizeCtx.filter = 'blur(1.5px)';
           fullSizeCtx.drawImage(video, 0, 0);
           tempCtx.drawImage(fullSizeCanvas, 0, 0, tempCanvas.width, tempCanvas.height);
         } else {
